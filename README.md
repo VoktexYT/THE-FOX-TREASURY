@@ -1,3 +1,3 @@
 To play the game (The fox treasury)
 
-https://winstonwolf007.github.io/THE-FOX-TREASURY/dist/
+https://winstonwolf007.github.io/THE-FOX-TREASURY/
